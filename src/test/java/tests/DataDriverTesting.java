@@ -1,6 +1,5 @@
 package tests;
 
-import org.bouncycastle.oer.its.ieee1609dot2.basetypes.SequenceOfUint8;
 import org.testng.Assert;
 import org.testng.annotations.DataProvider;
 import org.testng.annotations.Test;
